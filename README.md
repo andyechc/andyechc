@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/andyechc" target="blank"><img src="https://img.shields.io/twitter/follow/andyechc?logo=twitter&style=for-the-badge" alt="andyechc" /></a> </p>
 
-- This is my portfolio [andyechc.github.io](andyechc.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
