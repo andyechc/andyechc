@@ -1,23 +1,35 @@
-<p align="center">
-  <img src="./profile.png" width="160" height="160" />
-</p>
-<h1 align="center">Hi 👋, I'm andyechc</h1>
-<h3 align="center">☕︎ Software Developer ☕︎ | A passion for philosophy and video games, cultivating a balance between logic and creativity</h3>
+# andyechc
 
-<p align="left"> <a href="https://twitter.com/andyechc" target="blank"><img src="https://img.shields.io/twitter/follow/andyechc?logo=twitter&style=for-the-badge" alt="andyechc" /></a> </p>
+Software Developer — La Habana, Cuba.
 
+I build software. Thoughtfully.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/andyechc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andyechc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andyechc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andyechc" height="30" width="40" /></a>
-</p>
+Portfolio: [andyechc.is-a.dev](https://andyechc.is-a.dev) · [andyechc.github.io](https://andyechc.github.io)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Work
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andyechc&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="andyechc" /></p>
+A few things I've built:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andyechc&show_icons=true&theme=tokyonight&locale=en" alt="andyechc" /></p>
+- [Marky](https://github.com/andyechc/marky) — fast Markdown editor (React, TypeScript)
+- [DownGram CLI](https://github.com/andyechc/downgram-cli) — Telegram media downloader for the terminal (Python)
+- [Downgram Desktop](https://github.com/andyechc/downgram-desktop) — Telegram media downloader for desktop (Kotlin)
+- [MacMode](https://github.com/andyechc/MacMode) — macOS menu bar utility for dev/gaming profiles (Swift)
+- [Makp](https://github.com/andyechc/makp-landing) — native macOS MKV player (Swift)
+- [YouTube Downloader](https://github.com/andyechc/youtube-downloader) — download YouTube videos in the browser (Python, yt-dlp)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andyechc&theme=dark" alt="andyechc" /></p>
+## Experience
+
+- **2025 — Present** · Software Developer — Kotlin Multiplatform, Android + iOS, security-sensitive flows, payments
+- **2022 — 2024** · Full Stack Developer @ Shirkasoft — React/Next.js, REST APIs, MongoDB, business platforms
+- **2021 — 2022** · Freelance Web Developer — landing pages and web apps
+
+## Stack
+
+Kotlin · Kotlin Multiplatform · Swift · TypeScript · React / Next.js · Svelte / SvelteKit · Node.js · Python · MongoDB
+
+## Contact
+
+- Email: andyechc@gmail.com
+- LinkedIn: [linkedin.com/in/andyechc](https://linkedin.com/in/andyechc)
+- X: [x.com/andyechc](https://x.com/andyechc)
+- Substack: [substack.com/@andyechc](https://substack.com/@andyechc)
